@@ -13,7 +13,7 @@ It has applications for data visualization and creative coding.
 aimed at students without a STEM background. 
 
 See our other repositories for other things we do,
-and check out our [Github projects](https://github.com/creativescala/.github/projects) for work in progress.
+and check out our [Github projects](https://github.com/creativescala/projects) for work in progress.
 
 
 ## 🌈 Contribution Guidelines
@@ -21,7 +21,7 @@ and check out our [Github projects](https://github.com/creativescala/.github/pro
 We keep our processes as lightweight as possible. For small contributions you're welcome to just create a PR immediately. 
 For larger contributions, start a discussion on the relevant project.
 
-Each project has open issues, and the [Github projects](https://github.com/creativescala/.github/projects) 
+Each project has open issues, and the [Github projects](https://github.com/creativescala/projects) 
 track larger features that cross multiple issues.
 
 <!--
