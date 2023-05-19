@@ -24,6 +24,9 @@ For larger contributions, start a discussion on the relevant project.
 Each project has open issues, and the [Github projects](https://github.com/orgs/creativescala/projects) 
 track larger features that cross multiple issues.
 
+## 🦄 Sponsorship
+
+If you'd like to support our work, please consider becoming a [sponsor](https://github.com/sponsors/creativescala)
 <!--
 
 **Here are some ideas to get you started:**
